@@ -20,6 +20,7 @@ public class RegxValidPattern {
                 } catch (PatternSyntaxException ex) {
                     System.out.println("Invalid");
                 }
+                testCases--;
             }
         }
 }
