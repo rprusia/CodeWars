@@ -1,11 +1,16 @@
 import java.util.Scanner;
 
+/**
+ * project euler
+ *   Sum of MultOfThreeFive
+ */
 public class ScannerMultOfThreeFive2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long t = sc.nextLong();
 
+        // the following is a faster way to solve this problem.
         for(long i=0;i<t;i++){
 
             long n = sc.nextLong();
