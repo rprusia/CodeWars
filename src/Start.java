@@ -76,7 +76,7 @@ public class Start  {
        // System.out.println(ReverseStringLong.digitize(123455789L));
         //GetMiddleChars.getMiddle("testing");
        // Mumbling.accum("abcd");
-        //MultipleOfFiveThree.solution(10);
+        MultipleOfFiveThree.solution(10);
        // DivisibleByNumber.divisibleBy(longNum,2);
 
         //System.out.println(ShortestWord.findShort(shortWord));
