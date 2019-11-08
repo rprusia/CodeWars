@@ -17,7 +17,7 @@
  *
  * c: an array of binary integers
  */
-public class JumpingClouds {
+public class HRJumpingClouds {
 
     static int jumpingOnClouds(int[] c) {
 
