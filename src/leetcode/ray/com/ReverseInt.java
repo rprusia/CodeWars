@@ -15,7 +15,7 @@ public class ReverseInt {
                 if (reversed > Integer.MAX_VALUE/10 || reversed == Integer.MAX_VALUE/10 && pop > 7) return 0;
                 if (reversed < Integer.MIN_VALUE/10 || reversed == Integer.MIN_VALUE/10 && pop < -8) return 0;
 
-                reversed = (reversed * 10 ) + pop;
+                reversed = (reversed * 10 ) + pop;  // times the value by 10
             }
             return reversed;
         }
