@@ -10,6 +10,7 @@ public class HR_LinkedListAddTwoNumbers {
         LinkedList<Integer> listTwo = new LinkedList<Integer>();
 
         listOne.add(3);
+        listOne.add(2);
         listOne.add(3);
         listOne.add(3);
         listTwo.add(3);
