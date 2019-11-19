@@ -1,8 +1,5 @@
 package hackerrank.ray.com;
 
-import java.util.Comparator;
-
-
 
 public interface Tree <D extends Comparable> {
 
@@ -11,4 +8,6 @@ public interface Tree <D extends Comparable> {
     public boolean member(D elt);
     public NonEmptyBST<D> add(D elt);
 
+    class BinarySearchTree {
+    }
 }
