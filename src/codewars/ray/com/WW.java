@@ -1,3 +1,5 @@
+package codewars.ray.com;
+
 import java.util.*;
 import java.util.Map;
 
